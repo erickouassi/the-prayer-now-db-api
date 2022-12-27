@@ -8,7 +8,7 @@ const dataPrayers = [
     "time": "morning",
     "title": "morning1",
     "prayer_txt": "<p>In the name of the Father, <br />and of the Son, <br />and of the Holy Spirit.</p>\n<p><br />God, our Father,<br />I offer you today<br />all that I think and do and say.<br />I offer it with what was done<br />on earth<br />by Jesus Christ, your Son.</p>\n<p>Amen. 🙏</p>",
-    "prayer_audio": "https://raw.githubusercontent.com/erickouassi/files/master/morning_1.mp3"
+    "prayer_audio": "https://raw.githubusercontent.com/erickouassi/the-prayer-now-db-api/master/morning_1.mp3"
   },
   {
     "id": "2",
